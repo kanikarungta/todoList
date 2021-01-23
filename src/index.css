@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.list {
+  width: 20%;
+  margin: 5% auto;
+  padding: 20px;
+  border: 2px solid #d8d6d6;
+
+}
+
+.task {
+  margin-top: 20px;
+  border-bottom: 1px solid #d6c7c7;  
+}
+
+.doneStyle {
+  color: rgb(160, 158, 158);
+  text-decoration: 1px line-through;
+  font-style: italic;
+}
